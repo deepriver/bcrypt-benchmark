@@ -1,0 +1,16 @@
+{
+  "name": "bcrypt-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "benchmark": "node benchmark.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "benchmark": "^2.1.4"
+  }
+}
